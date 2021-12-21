@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\MemorySwapper\MemorySwapper\bin\Release\MemorySwapper.exe.config
+C:\Users\USER\source\repos\MemorySwapper\MemorySwapper\bin\Release\MemorySwapper.exe
+C:\Users\USER\source\repos\MemorySwapper\MemorySwapper\bin\Release\MemorySwapper.pdb
+C:\Users\USER\source\repos\MemorySwapper\MemorySwapper\obj\Release\MemorySwapper.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\MemorySwapper\MemorySwapper\obj\Release\MemorySwapper.Properties.Resources.resources
+C:\Users\USER\source\repos\MemorySwapper\MemorySwapper\obj\Release\MemorySwapper.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\MemorySwapper\MemorySwapper\obj\Release\MemorySwapper.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MemorySwapper\MemorySwapper\obj\Release\MemorySwapper.exe
+C:\Users\USER\source\repos\MemorySwapper\MemorySwapper\obj\Release\MemorySwapper.pdb
